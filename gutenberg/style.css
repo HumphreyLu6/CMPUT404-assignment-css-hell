@@ -63,11 +63,19 @@ i {
     margin-bottom: 2em;
 }
 
-div.fig { display:block;
-       margin:0 auto;
-       text-align:center; }
+div.fig { 
+    display:block;
+    margin:0 auto;
+    text-align:center; }
 
 a:link {color:blue; text-decoration:none}
 a:visited {color:rgb(212, 141, 60); text-decoration:none}
 a:hover {color:rgb(122, 218, 93)}
 
+img {
+    width: 50%;
+}
+
+.caption{
+    font-weight: bold;
+}
