@@ -21,4 +21,9 @@ repository and (C) 2013 Abram Hindle visibile in the text.
 
 Code is licensed under the Apache 2.0 license.
 
+PART I Modifications: 
+* Changed the body element background to a yellowish color
+* Change all headings elements font-weighter to lighter
+* Change all headings margin-top and margin-bottom respectively depends on the tag
+* Change <h1> elements font-variant to small-caps 
 
