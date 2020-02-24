@@ -25,11 +25,11 @@ PART I Modifications:
 * Changed the body element background to a yellowish color
 * Change all headings elements font-weighter to lighter
 * Change all headings margin-top and margin-bottom respectively depends on the tag
-* Change "h1" elements font-variant to small-caps 
-* Change "hr" elements width to 100%, increases the margin-top to 2em
-* Change "div.chapter" elements margin top to 50 em
-* Change "p" elements text-indent to 2em
-* Change "p.poem" elements font-style to italic, font-weight to bold
-* Change "p.noindent" elements font-weight to bold
-* Change "i" elements font-style to oblique
+* Change `<h1>` elements font-variant to small-caps 
+* Change `<hr>` elements width to 100%, increases the margin-top to 2em
+* Change `<div.hapter>`lements margin top to 50 em
+* Change `<p>`elements text-indent to 2em
+* Change `<p.poem>` elements font-style to italic, font-weight to bold
+* Change `<p.noindent>` elements font-weight to bold
+* Change `<i>` elements font-style to oblique
 
