@@ -4,13 +4,12 @@ body {
     margin-top: 0;
 }
 
-h1 {
-    color: white;
-    font-size: 300%;
-}
-
 h3 {
     font-size: 150%;
+}
+
+.intro {
+    text-indent: 2em;
 }
 
 li a {
@@ -26,16 +25,28 @@ li a {
     background-color: #3372a8;
     padding-top: 1%;
 }
-.headbar h1{
+
+.headbar div{
     margin-top: 5%;
-    margin-bottom: 5%;
-    margin-left: 20%;
+    /* margin-bottom: 5%; */
+    margin-left: 10%;
     /* margin-right: 10%; */
     float: left;
+    font-size: 300%;
+    color: white;
+}
+
+.title{
+    /* margin-top: 5%; */
+    margin-bottom: 5%;
+    margin-left: 10%;
+    /* margin-right: 10%; */
+    float: left;
+    font-size: 36px;
 }
 
 .headbar img {
-    margin-left: 5%;
+    margin-left: 10%;
     border-radius: 8px;
     width: 20%;
 }
@@ -57,7 +68,8 @@ li a {
 }
 
 .mainbody {
-    width: 75%;
+    margin-left: 3%;
+    width: 72%;
     float: left;
 }
 
@@ -71,4 +83,8 @@ li a {
 .sidebar h3{
     font-size: 100%;
     margin: 10%;
+}
+
+.headbar li{
+    margin-left: 15%;
 }
