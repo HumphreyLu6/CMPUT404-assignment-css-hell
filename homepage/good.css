@@ -9,11 +9,6 @@ h1 {
     font-size: 300%;
 }
 
-h2 {
-    color: white;
-    font-size: 200%;
-}
-
 h3 {
     font-size: 150%;
 }
@@ -35,19 +30,11 @@ li a {
     margin-top: 5%;
     margin-bottom: 5%;
     margin-left: 20%;
-    margin-right: 10%;
-}
-
-.headbar h2{
-    margin-top: 5%;
-    margin-bottom: 5%;
-    margin-left: 20%;
-    margin-right: 10%;
+    /* margin-right: 10%; */
     float: left;
 }
 
 .headbar img {
-    
     margin-left: 5%;
     border-radius: 8px;
     width: 20%;
